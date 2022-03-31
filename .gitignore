@@ -1,0 +1,5 @@
+deployment.yml
+deploymentservice.yml
+package-lock.json
+service.yml
+node_modules/
